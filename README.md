@@ -15,7 +15,7 @@
    - Sistema del gobierno para registrar cargos y mandos.
 
 2. Consulte acerca de los árboles B, B+ y AVL. Elabore un cuadro comparativo.
-   LINK: https://1drv.ms/w/s!Au7XQM-Pbv6WgYINEbAdZC2yApow3w?e=keYBie
+   - LINK: https://1drv.ms/w/s!Au7XQM-Pbv6WgYINEbAdZC2yApow3w?e=keYBie
    
 ## Preguntas Orientadoras
 
